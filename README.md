@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Satyam%20Rathod&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20%7C%20Analytics%20%7C%20Python&descAlignY=55&descSize=18"/>
 </p>
 
-<h3 align="center">🚀 RPA Developer | Power Platform Specialist | Data Analytics Enthusiast</h3>
+<h3 align="center">🚀 RPA Developer | Power Platform Specialist | Data Analytics Enthusiast | Python</h3>
 
 <!-- Animated Line -->
 <p align="center">
