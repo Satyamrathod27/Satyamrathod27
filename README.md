@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Satyam Rathod</h1>
+<!-- 🌌 Animated Tech Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Satyam%20Rathod&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20%7C%20Analytics%20%7C%20AI%20Builder&descAlignY=55&descSize=18"/>
+</p>
+
 <h3 align="center">🚀 RPA Developer | Power Platform Specialist | Data Analytics Enthusiast</h3>
 
+<!-- Animated Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Power+Platform+Developer;RPA+Consultant;Data+Analytics+Explorer;Automation+Builder;Python+Problem+Solver&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Smart+Automation+Solutions;Turning+Data+into+Business+Insights;Power+Platform+%7C+Python+%7C+AI" />
 </p>
 
 ---
@@ -86,9 +91,7 @@ Python + OpenCV automation system with real-time face detection.
 
 ---
 
-## 📊 GitHub Stats
-
-
+## 📊 GitHub Activity
 
 <!-- Contribution Snake Animation -->
 <p align="center">
@@ -99,9 +102,6 @@ Python + OpenCV automation system with real-time face detection.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamrathod27&theme=tokyo-night&hide_border=true"/>
 </p>
-
-
-
 
 ---
 
@@ -117,4 +117,9 @@ Python + OpenCV automation system with real-time face detection.
 
 <p align="center">
 ✨ <i>Turning Data into Insights | Turning Processes into Automation</i> ✨
+</p>
+
+<!-- 🌊 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
