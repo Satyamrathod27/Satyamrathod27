@@ -88,9 +88,25 @@ Python + OpenCV automation system with real-time face detection.
 
 ## 📊 GitHub Stats
 
+<!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamrathod27&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamrathod27&theme=tokyonight&row=1&column=6"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Automation+%7C+Analytics+%7C+AI;Building+Smart+Solutions+🚀">
+</p>
+
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamrathod27&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<!-- GitHub Stats (Reliable Version) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamrathod27&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamrathod27&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
