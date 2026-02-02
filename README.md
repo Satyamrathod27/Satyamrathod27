@@ -89,9 +89,9 @@ Python + OpenCV automation system with real-time face detection.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamrathod27&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrathod27&theme=tokyonight" height="165"/>
+  <img src="https://komarev.com/ghpvc/?username=satyamrathod27&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 
 ---
 
