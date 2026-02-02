@@ -90,6 +90,7 @@ Python + OpenCV automation system with real-time face detection.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyamrathod27&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamrathod27&theme=tokyonight&row=1&column=6"/>
 </p>
 
 
